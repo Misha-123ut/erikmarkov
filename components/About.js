@@ -28,7 +28,7 @@ export default function About() {
 
           <p className="text-xl text-gray-300 leading-relaxed font-light">
             I am a <span className="text-white font-medium">Full-stack Developer</span> focused on
-            building clean, modern and <span className="text-purple-400">scalable</span> web
+            building clean, modern and <span className="text-purple-400 ">scalable</span> web
             applications. I enjoy turning complex logic into elegant user interfaces.
           </p>
 
