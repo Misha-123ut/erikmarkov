@@ -1,7 +1,7 @@
 /* --- ПЕРЕМЕННЫЕ И БАЗА --- */
 :root {
   --bg-black: #f5f5f7; /* светлый фон */
-  --text-main: #ffffff;
+  --text-main: #111111; /* темный текст */
   --text-muted: #9ca3af;
   --accent-purple: #a855f7;
   --accent-blue: #3b82f6;
